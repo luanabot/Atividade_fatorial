@@ -35,3 +35,14 @@ public long fatorialIterativo(int n) {
 
     return resultado;
 }
+```
+## 🔁 Implementação Iterativa
+
+```java
+public long fatorialRecursivo(int n) {
+    if (n == 0 || n == 1) {
+        return 1;
+    }
+
+    return n * fatorialRecursivo(n - 1);
+}
