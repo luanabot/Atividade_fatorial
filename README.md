@@ -1,9 +1,5 @@
 # 📘 Fatorial em Java (Iterativo vs Recursivo)
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Concluído-brightgreen?style=for-the-badge)
-![Algoritmos](https://img.shields.io/badge/Algoritmos-Fatorial-blue?style=for-the-badge)
-
 ---
 
 ## 📌 Sobre o projeto
